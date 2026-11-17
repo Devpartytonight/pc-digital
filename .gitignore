@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+# reference material (third-party site captures and internal brief) kept out of the repo
+*.pdf
+*.docx
